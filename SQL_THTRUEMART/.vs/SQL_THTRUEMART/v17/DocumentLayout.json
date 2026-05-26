@@ -1,0 +1,1029 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:dangky.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formlaphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formlaphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|d:\\hk12026\\hdt\\18_nguyenngocxuannghi_8804\\sql_thtruemart\\formlaphoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formlaphoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formlaphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formlaphoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formlaphoadon.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formlaphoadon.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieuxuat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieuxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieuxuat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieunhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieunhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieutrahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieutrahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\chungtuexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:chungtuexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formquanlygiakm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formquanlygiakm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formquanlygiakm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formquanlygiakm.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formquanlygiakm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formquanlygiakm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\FormLapHoaDon.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formtonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formtonkho.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formtonkho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formthethanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formthethanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formthethanhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formthethanhvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formthethanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formthethanhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formquanlygiakm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formquanlygiakm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formsphethan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formsphethan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formsphethan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formsphethan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formsphethan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formsphethan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieutrahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieutrahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphieutrahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphieutrahang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formchitiet_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formchitiet_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphanquyen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphanquyen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formphanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formnhanvien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formdonhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formbaocaodoanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formbaocaodoanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formchitiet_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formchitiet_hd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formchitiet_hd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formchitiet_hd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formbaocaodoanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formbaocaodoanhso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formbaocaodoanhso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formbaocaodoanhso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\formnhanvien.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{207D49F8-AFDF-4F99-9CFE-1B222CB2E9BE}|SQL_THTRUEMART.csproj|solutionrelative:formnhanvien.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormLogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangNhap.cs",
+              "RelativeToolTip": "DangNhap.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAkwHUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:27:45.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:37:17.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:10:00.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangKy.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangKy.cs",
+              "RelativeToolTip": "DangKy.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAkwEsBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:30:08.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangKy.cs",
+              "RelativeDocumentMoniker": "DangKy.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangKy.cs [Design]",
+              "RelativeToolTip": "DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:29:13.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "DangNhap.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangNhap.Designer.cs",
+              "RelativeToolTip": "DangNhap.Designer.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:24:38.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangKy.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangKy.Designer.cs",
+              "RelativeDocumentMoniker": "DangKy.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangKy.Designer.cs",
+              "RelativeToolTip": "DangKy.Designer.cs",
+              "ViewState": "AgIAAF8CAAAAAAAAAAAAAIECAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:29:28.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:46:17.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormLapHoaDon.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormLapHoaDon.cs",
+              "RelativeDocumentMoniker": "FormLapHoaDon.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormLapHoaDon.cs",
+              "RelativeToolTip": "FormLapHoaDon.cs",
+              "ViewState": "AgIAAMUCAAAAAAAAAAAkwOcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:35:41.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormLapHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormLapHoaDon.cs",
+              "RelativeDocumentMoniker": "FormLapHoaDon.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormLapHoaDon.cs [Design]",
+              "RelativeToolTip": "FormLapHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:35:38.55Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLapHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormLapHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "FormLapHoaDon.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormLapHoaDon.Designer.cs",
+              "RelativeToolTip": "FormLapHoaDon.Designer.cs",
+              "ViewState": "AgIAAFIEAAAAAAAAAAAkwHQEAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:38:42.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormLapHoaDon.resx",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormLapHoaDon.resx",
+              "RelativeDocumentMoniker": "FormLapHoaDon.resx",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormLapHoaDon.resx",
+              "RelativeToolTip": "FormLapHoaDon.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-28T12:29:01.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormPhieuNhap.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuNhap.cs",
+              "RelativeDocumentMoniker": "FormPhieuNhap.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuNhap.cs [Design]",
+              "RelativeToolTip": "FormPhieuNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:16:38.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormPhieuXuat.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuXuat.cs",
+              "RelativeDocumentMoniker": "FormPhieuXuat.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuXuat.cs [Design]",
+              "RelativeToolTip": "FormPhieuXuat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:26:50.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormPhieuXuat.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuXuat.cs",
+              "RelativeDocumentMoniker": "FormPhieuXuat.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuXuat.cs",
+              "RelativeToolTip": "FormPhieuXuat.cs",
+              "ViewState": "AgIAAHYCAAAAAAAAAAAswI0CAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:26:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormPhieuXuat.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuXuat.Designer.cs",
+              "RelativeDocumentMoniker": "FormPhieuXuat.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuXuat.Designer.cs",
+              "RelativeToolTip": "FormPhieuXuat.Designer.cs",
+              "ViewState": "AgIAAP0CAAAAAAAAAAAswCEDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:28:21.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormPhieuNhap.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuNhap.cs",
+              "RelativeDocumentMoniker": "FormPhieuNhap.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuNhap.cs",
+              "RelativeToolTip": "FormPhieuNhap.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:16:41.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormPhieuNhap.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuNhap.Designer.cs",
+              "RelativeDocumentMoniker": "FormPhieuNhap.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuNhap.Designer.cs",
+              "RelativeToolTip": "FormPhieuNhap.Designer.cs",
+              "ViewState": "AgIAAAwDAAAAAAAAAAAUwCcDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:18:38.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormPhieuTraHang.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuTraHang.cs",
+              "RelativeDocumentMoniker": "FormPhieuTraHang.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuTraHang.cs [Design]",
+              "RelativeToolTip": "FormPhieuTraHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:10:34.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChungTuExporter.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\ChungTuExporter.cs",
+              "RelativeDocumentMoniker": "ChungTuExporter.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\ChungTuExporter.cs",
+              "RelativeToolTip": "ChungTuExporter.cs",
+              "ViewState": "AgIAAIgCAAAAAAAAAAAxwKUCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T02:52:55.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormQuanLyGiaKM.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormQuanLyGiaKM.cs",
+              "RelativeDocumentMoniker": "FormQuanLyGiaKM.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormQuanLyGiaKM.cs",
+              "RelativeToolTip": "FormQuanLyGiaKM.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T01:19:39.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormQuanLyGiaKM.resx",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormQuanLyGiaKM.resx",
+              "RelativeDocumentMoniker": "FormQuanLyGiaKM.resx",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormQuanLyGiaKM.resx",
+              "RelativeToolTip": "FormQuanLyGiaKM.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-19T03:03:23.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormQuanLyGiaKM.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormQuanLyGiaKM.Designer.cs",
+              "RelativeDocumentMoniker": "FormQuanLyGiaKM.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormQuanLyGiaKM.Designer.cs",
+              "RelativeToolTip": "FormQuanLyGiaKM.Designer.cs",
+              "ViewState": "AgIAAGsDAAAAAAAAAAAgwH0DAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T01:22:00.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormLapHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\Downloads\\FormLapHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\FormLapHoaDon.Designer.cs",
+              "ToolTip": "D:\\Downloads\\FormLapHoaDon.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\FormLapHoaDon.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T02:39:21.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormSanPham.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSanPham.cs",
+              "RelativeDocumentMoniker": "FormSanPham.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:59:40.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormSanPham.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSanPham.cs",
+              "RelativeDocumentMoniker": "FormSanPham.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSanPham.cs",
+              "RelativeToolTip": "FormSanPham.cs",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAUwLIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:59:44.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormTonKho.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTonKho.cs",
+              "RelativeDocumentMoniker": "FormTonKho.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTonKho.cs",
+              "RelativeToolTip": "FormTonKho.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAUwBYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:06:24.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormSanPham.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSanPham.Designer.cs",
+              "RelativeDocumentMoniker": "FormSanPham.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSanPham.Designer.cs",
+              "RelativeToolTip": "FormSanPham.Designer.cs",
+              "ViewState": "AgIAABYDAAAAAAAAAAAUwD0DAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:00:36.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormTonKho.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTonKho.Designer.cs",
+              "RelativeDocumentMoniker": "FormTonKho.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTonKho.Designer.cs",
+              "RelativeToolTip": "FormTonKho.Designer.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAUwLgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:08:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormTheThanhVien.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTheThanhVien.Designer.cs",
+              "RelativeDocumentMoniker": "FormTheThanhVien.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTheThanhVien.Designer.cs",
+              "RelativeToolTip": "FormTheThanhVien.Designer.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAUwCMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:58:15.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormTonKho.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTonKho.cs",
+              "RelativeDocumentMoniker": "FormTonKho.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormTonKho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:06:21.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AgIAAF4BAAAAAAAAAAAowGgBAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:40:10.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormTheThanhVien.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTheThanhVien.cs",
+              "RelativeDocumentMoniker": "FormTheThanhVien.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTheThanhVien.cs",
+              "RelativeToolTip": "FormTheThanhVien.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA4wCIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:56:56.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormTheThanhVien.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormTheThanhVien.cs",
+              "RelativeDocumentMoniker": "FormTheThanhVien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormTheThanhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:56:52.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormQuanLyGiaKM.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormQuanLyGiaKM.cs",
+              "RelativeDocumentMoniker": "FormQuanLyGiaKM.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormQuanLyGiaKM.cs [Design]",
+              "RelativeToolTip": "FormQuanLyGiaKM.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T01:19:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FormSPHetHan.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSPHetHan.cs",
+              "RelativeDocumentMoniker": "FormSPHetHan.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSPHetHan.cs",
+              "RelativeToolTip": "FormSPHetHan.cs",
+              "ViewState": "AgIAAFEBAAAAAAAAAAAUwHIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:01:05.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormSPHetHan.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSPHetHan.cs",
+              "RelativeDocumentMoniker": "FormSPHetHan.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormSPHetHan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:01:00.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormSPHetHan.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSPHetHan.Designer.cs",
+              "RelativeDocumentMoniker": "FormSPHetHan.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormSPHetHan.Designer.cs",
+              "RelativeToolTip": "FormSPHetHan.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwL8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:02:34.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormPhieuTraHang.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuTraHang.cs",
+              "RelativeDocumentMoniker": "FormPhieuTraHang.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuTraHang.cs",
+              "RelativeToolTip": "FormPhieuTraHang.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:10:38.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormPhieuTraHang.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuTraHang.Designer.cs",
+              "RelativeDocumentMoniker": "FormPhieuTraHang.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhieuTraHang.Designer.cs",
+              "RelativeToolTip": "FormPhieuTraHang.Designer.cs",
+              "ViewState": "AgIAABwDAAAAAAAAAAAgwFADAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:14:31.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormChiTiet_HD.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormChiTiet_HD.cs",
+              "RelativeDocumentMoniker": "FormChiTiet_HD.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormChiTiet_HD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:49:20.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormPhanQuyen.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhanQuyen.Designer.cs",
+              "RelativeDocumentMoniker": "FormPhanQuyen.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhanQuyen.Designer.cs",
+              "RelativeToolTip": "FormPhanQuyen.Designer.cs",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAmwLUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:29:58.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormPhanQuyen.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhanQuyen.cs",
+              "RelativeDocumentMoniker": "FormPhanQuyen.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhanQuyen.cs",
+              "RelativeToolTip": "FormPhanQuyen.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAADwv5QBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:27:51.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormPhanQuyen.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormPhanQuyen.cs",
+              "RelativeDocumentMoniker": "FormPhanQuyen.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormPhanQuyen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T15:27:41.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "FormNhanVien.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:42:41.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormNhanVien.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormNhanVien.cs",
+              "RelativeDocumentMoniker": "FormNhanVien.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormNhanVien.cs",
+              "RelativeToolTip": "FormNhanVien.cs",
+              "ViewState": "AgIAAJQBAAAAAAAAAAAmwLgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:42:45.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "FormNhanVien.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormNhanVien.Designer.cs",
+              "RelativeToolTip": "FormNhanVien.Designer.cs",
+              "ViewState": "AgIAAPQCAAAAAAAAAAAmwA4DAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:45:39.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "QuenMatKhau.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:46:17.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "FormMain.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormMain.Designer.cs",
+              "RelativeToolTip": "FormMain.Designer.cs",
+              "ViewState": "AgIAAKQCAAAAAAAAAAAmwMwCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T02:28:50.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormDonHang.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormDonHang.cs",
+              "RelativeDocumentMoniker": "FormDonHang.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:11:11.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormDonHang.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormDonHang.cs",
+              "RelativeDocumentMoniker": "FormDonHang.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormDonHang.cs",
+              "RelativeToolTip": "FormDonHang.cs",
+              "ViewState": "AgIAAFwBAAAAAAAAAAAIwHMBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:11:15.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormDonHang.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormDonHang.Designer.cs",
+              "RelativeDocumentMoniker": "FormDonHang.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormDonHang.Designer.cs",
+              "RelativeToolTip": "FormDonHang.Designer.cs",
+              "ViewState": "AgIAAPMDAAAAAAAAAAAAAKgDAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:12:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormBaoCaoDoanhSo.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormBaoCaoDoanhSo.cs",
+              "RelativeDocumentMoniker": "FormBaoCaoDoanhSo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormBaoCaoDoanhSo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:20:43.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormChiTiet_HD.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormChiTiet_HD.cs",
+              "RelativeDocumentMoniker": "FormChiTiet_HD.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormChiTiet_HD.cs",
+              "RelativeToolTip": "FormChiTiet_HD.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAuwMgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:49:24.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormChiTiet_HD.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormChiTiet_HD.Designer.cs",
+              "RelativeDocumentMoniker": "FormChiTiet_HD.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormChiTiet_HD.Designer.cs",
+              "RelativeToolTip": "FormChiTiet_HD.Designer.cs",
+              "ViewState": "AgIAAPUBAAAAAAAAAAAAAB0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:50:22.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FormBaoCaoDoanhSo.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormBaoCaoDoanhSo.cs",
+              "RelativeDocumentMoniker": "FormBaoCaoDoanhSo.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormBaoCaoDoanhSo.cs",
+              "RelativeToolTip": "FormBaoCaoDoanhSo.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAKoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:20:48.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormBaoCaoDoanhSo.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormBaoCaoDoanhSo.Designer.cs",
+              "RelativeDocumentMoniker": "FormBaoCaoDoanhSo.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormBaoCaoDoanhSo.Designer.cs",
+              "RelativeToolTip": "FormBaoCaoDoanhSo.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwOgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T17:21:57.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:11:00.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:10:07.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangNhap.cs",
+              "RelativeDocumentMoniker": "DangNhap.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\DangNhap.cs [Design]",
+              "RelativeToolTip": "DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:21:31.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "QuenMatKhau.Designer.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\QuenMatKhau.Designer.cs",
+              "RelativeDocumentMoniker": "QuenMatKhau.Designer.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\QuenMatKhau.Designer.cs",
+              "RelativeToolTip": "QuenMatKhau.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:46:23.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "QuenMatKhau.cs",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "QuenMatKhau.cs",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\QuenMatKhau.cs",
+              "RelativeToolTip": "QuenMatKhau.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T11:47:05.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Downloads\\SQL_THTRUEMART\\FormLogin.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAswBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T14:34:39.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FormNhanVien.resx",
+              "DocumentMoniker": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormNhanVien.resx",
+              "RelativeDocumentMoniker": "FormNhanVien.resx",
+              "ToolTip": "D:\\HK12026\\HDT\\18_NguyenNgocXuanNghi_8804\\SQL_THTRUEMART\\FormNhanVien.resx",
+              "RelativeToolTip": "FormNhanVien.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-09T15:20:58.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

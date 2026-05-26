@@ -1,0 +1,106 @@
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.exe.config
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.exe
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.pdb
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.AssemblyReference.cache
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormLogin.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.Properties.Resources.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.GenerateResource.cache
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.CoreCompileInputs.cache
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.exe
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.pdb
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormNhanVien.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormSanPham.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormTonKho.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuNhap.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuXuat.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormLapHoaDon.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormChiTiet_HD.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.exe.config
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormTheThanhVien.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormDonHang.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormBaoCaoDoanhSo.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormQuanLyGiaKM.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormSPHetHan.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuTraHang.resources
+D:\HK32025\HeQuanTriCoSoDuLieuSQL\DoanSQL\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormMain.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.exe.config
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.exe
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.pdb
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.AssemblyReference.cache
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.exe.config
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormBaoCaoDoanhSo.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormChiTiet_HD.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormDonHang.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormLapHoaDon.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormLogin.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormMain.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormNhanVien.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuNhap.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuTraHang.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuXuat.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormQuanLyGiaKM.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormSanPham.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormSPHetHan.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormTheThanhVien.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormTonKho.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.Properties.Resources.resources
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.GenerateResource.cache
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.CoreCompileInputs.cache
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.exe
+D:\Tài liệu\HK32025\HeQuanTriCoSoDuLieuSQL\2321004036_NguyenNgocXuanNghi_2531101068801\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.pdb
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.exe.config
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.exe
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.pdb
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.DangKy.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.DangNhap.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormBaoCaoDoanhSo.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormChiTiet_HD.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormDonHang.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormLapHoaDon.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormMain.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormNhanVien.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuNhap.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuTraHang.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuXuat.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormQuanLyGiaKM.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormSanPham.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormSPHetHan.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormTheThanhVien.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormTonKho.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.MainForm.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.Properties.Resources.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.QuenMatKhau.resources
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.exe
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.pdb
+C:\Users\ASUS\Downloads\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.exe.config
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.exe.config
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.exe
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\bin\Debug\SQL_THTRUEMART.pdb
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.AssemblyReference.cache
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.exe.config
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.DangKy.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.DangNhap.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormBaoCaoDoanhSo.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormChiTiet_HD.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormDonHang.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormLapHoaDon.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormMain.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormNhanVien.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuNhap.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuTraHang.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormPhieuXuat.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormQuanLyGiaKM.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormSanPham.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormSPHetHan.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormTheThanhVien.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.FormTonKho.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.MainForm.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.Properties.Resources.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.QuenMatKhau.resources
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.GenerateResource.cache
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.csproj.CoreCompileInputs.cache
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.exe
+D:\HK12026\HDT\18_NguyenNgocXuanNghi_8804\SQL_THTRUEMART\obj\Debug\SQL_THTRUEMART.pdb
